@@ -14,6 +14,8 @@ app = Flask('churn')
 
 @app.route('/predict', methods=['POST'])
 def predict():
+    
+    # get data from request in JSON format and transform it into a dictionary
     customer = request.get_json()
 
     X = dv.transform([customer])
@@ -22,9 +24,10 @@ def predict():
 
     result = {
         'churn_probability': float(y_pred),
-        'churn': bool(churn)
+        'churn': bool(churn) # transform numpy bool to Python bool
     }
 
+    # jsonify return value in JSON format
     return jsonify(result)
 
 

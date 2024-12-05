@@ -28,7 +28,7 @@ classes = [
     't-shirt'
 ]
 
-# url = 'http://bit.ly/mlbookcamp-pants'
+#url = 'http://bit.ly/mlbookcamp-pants'
 
 def predict(url):
     X = preprocessor.from_url(url)

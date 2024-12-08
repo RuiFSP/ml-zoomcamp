@@ -163,3 +163,9 @@ cython_debug/
 
 ml_zoomcap
 tf-lite
+
+# ignore models
+09-serverless/homework09/model_2024_hairstyle.keras
+09-serverless/homework09/hairstyle-model.tflite
+09-serverless/notebooks&notes/clothing-model.h5
+09-serverless/notebooks&notes/clothing-model.tflite

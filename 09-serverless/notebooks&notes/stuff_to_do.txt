@@ -1,0 +1,30 @@
+# this is the adress we want to build
+# example  of https://?????????.dkr.ecr.eu-west-2.amazonaws.com
+
+
+# create this on terminal
+ACCOUNT=?????????
+REGION=eu-west-2
+REGISTRY=clothing-tflite-images
+PREFIX=${ACCOUNT}.dkr.ecr.${REGION}.amazonaws.com/${REGISTRY}
+
+TAG=clothing-model-v4-001
+REMOTE_URI=${PREFIX}:${TAG}
+
+
+# after creating verify with 
+echo ${REMOTE_URI}
+
+
+
+# -------------------------
+# calculating price of lambda
+
+per unit
+$0.0000000167 for 1024 MB * 2000 (2 seconds) = € 3.34e-05 we pay for request 
+
+
+
+per 10000 images
+$0.0000000167 * 2000 * 10000 = 0.33399999999999996
+

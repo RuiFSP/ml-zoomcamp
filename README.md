@@ -19,7 +19,7 @@ You don’t need any prior knowledge of machine learning as we’ll guide you fr
 - **Part 1:** covers machine learning algorithms implemented in Python, including Linear Regression, Classification, Decision Trees, Ensemble Learning, and Neural Networks.
 - **Part 2:** focuses on deploying models using popular frameworks like Flask, TensorFlow, and Kubernetes.
 
-<img src="images/mlzoomcamp.png" alt="image" width="600" height="600">
+![image](images/mlzoomcamp.png)
 
 ## Course Registration
 

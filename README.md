@@ -23,9 +23,9 @@ You don’t need any prior knowledge of machine learning as we’ll guide you fr
 
 ## Course Registration
 
-* Register at [DataTalks.Club](https://DataTalks.Club) and join the `#course-ml-zoomcamp` channel.
-* [Course Telegram channel](https://t.me/mlzoomcamp)
-* [Course YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
+- Register at [DataTalks.Club](https://DataTalks.Club) and join the `#course-ml-zoomcamp` channel.
+- [Course Telegram channel](https://t.me/mlzoomcamp)
+- [Course YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
 
 ## Projects
 
